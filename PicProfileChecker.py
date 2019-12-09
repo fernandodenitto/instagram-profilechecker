@@ -79,5 +79,3 @@ def imageDiffURL(image1url,image2url):
     
     ncomponents = i1.size[0] * i1.size[1] * 3
     return (dif / 255.0 * 100) / ncomponents #Difference in percentage
-
-print(imageDiffURL("https://instagram.fcdg1-1.fna.fbcdn.net/vp/bde9a32e6cadcee349b85053b36f103c/5E695BF1/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?_nc_ht=instagram.fcdg1-1.fna.fbcdn.net","https://scontent-mxp1-1.cdninstagram.com/vp/90ffd609ae2d97be7c37f2a964e4496e/5E666F17/t51.2885-19/s320x320/71946067_575063146631396_5911669943438409728_n.jpg?_nc_ht=scontent-mxp1-1.cdninstagram.com"))
