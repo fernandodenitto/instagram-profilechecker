@@ -9,7 +9,7 @@ from igramscraper.instagram import Instagram
 from time import sleep
 
 instagram = Instagram()
-instagram.with_credentials('nandocheck', 'datamining', 'pathtocache')
+instagram.with_credentials('nandocheck', '', 'pathtocache')
 instagram.login()
 
 sleep(2) # Delay to mimic user
