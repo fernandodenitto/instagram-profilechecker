@@ -1,0 +1,38 @@
+Attributi:
+
+From_user:
+
+profile_pic: true/false
+biography: true/false
+follows_count: number
+followed_by_count: number
+media_count: number
+is_private: true/false
+is_verified: true/false
+is_business_account: true/false
+is_joined_recently: true/false
+highlight_reel_count: number
+connected_fb_page: true/false
+
+From_posts:
+
+average_likes: number
+max_likes: number
+min_likes: number
+std_likes: number
+var_likes: number
+skewness_likes: number
+
+average_comments: number
+max_comments: number
+min_comments: number
+std_comments: number
+var_comments: number
+skewness_comments: number
+
+average_time_between_posts: number
+max_time_between_posts: number
+min_time_between_posts: number
+std_time_between_posts: number
+var_time_between_posts: number
+skewness_time_between_posts: number
