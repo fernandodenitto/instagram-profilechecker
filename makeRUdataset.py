@@ -9,9 +9,17 @@ from time import sleep
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 
+proxies={
+    'https': 'https://201.217.4.101:53281',
+}
+
+
 instagram = Instagram()
-instagram.with_credentials('nandocheck', 'datamining', 'pathtocache')
+instagram.set_proxies(proxies)
+instagram.with_credentials('nandocheck','datamining', 'pathtocache')
 instagram.login()
+
+
 
 # sleep(2) # Delay to mimic user
 
@@ -57,7 +65,7 @@ for username in usernames:
         # If there are errors of any kind save the work and exit!
         userJson=json.dumps(userDatas)
         # print(userJson)
-        print(type(Exception))
+        print(str(Exception))
         frudataJson.write(userJson)
         frudataJson.close()
         fruc.close()
