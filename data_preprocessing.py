@@ -3,6 +3,8 @@ import os
 import csv
 import statistics
 from scipy.stats import skew 
+import pandas
+
 
 def emptyPicProfileFromURL(picProfileURL):
 
@@ -123,7 +125,8 @@ for user in users:
 with open('data.json', 'w') as outfile:
     json.dump(data, outfile, indent=4)
 
-    
+df = pandas.DataFrame(data)
+df.to_csv("data.csv",index=False)
     
 
 
