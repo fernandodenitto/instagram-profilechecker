@@ -11,15 +11,22 @@ import requests
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-proxy={
-    'http': 'http://127.0.0.1:24002'
-}
+proxies=[
+    {
+    'http': 'http://191.252.204.217:80',
+    'https': 'https://191.252.204.217:80'
+    },
+    {
+    'http': 'https://183.91.33.41:92',
+    'https': 'https://183.91.33.41:92'
+    }
+]
 
 # Lista di utenti daq usare per fare scraping
 logins=[
-    {   'username': 'querie_fornaini',
-        'password':'Vietatofumare'
-    },
+     {   'username': 'querie_fornaini',
+         'password':'Vietatofumare'
+     },
     {   'username': 'nandobet92',
         'password':'datamining'
     },
@@ -41,7 +48,10 @@ print("Loggato con: "+login_username)
 login_password=logins[0].get('password')
 logins = logins[1:] + logins[:1] 
 
-instagram.set_proxies(proxy)
+# proxy=proxies[0]
+# proxies = proxies[1:] + proxies[:1] 
+
+# instagram.set_proxies(proxy)
 instagram.with_credentials(login_username,login_password, 'pathtocache')
 instagram.login()
 
@@ -71,22 +81,24 @@ indexSleep=1
 # For every username scrape the datas with some pause for simulate a user usage
 for username in usernames:
     try:
-        if indexSleep%10==0:
+        if indexSleep%20==0:
             # Prendo un nuovo username dalla cima e lo inserisco in fondo alla lista logins
             login_username=logins[0].get('username')
             login_password=logins[0].get('password')
             logins = logins[1:] + logins[:1] 
             # Imposto un nuovo proxy
-            instagram.set_proxies(proxy)
+            # proxy=proxies[0]
+            # proxies = proxies[1:] + proxies[:1] 
+            # instagram.set_proxies(proxy)
 
-            sleep(randrange(40))
+            sleep(randrange(60))
             instagram.with_credentials(login_username,login_password, 'pathtocache')
             instagram.login()
             print('Logged as: '+login_username)
         elif indexSleep%1000==0:
             sleep(100)
         else:
-            sleep(20+randrange(2))
+            sleep(10)
         account = instagram.get_account(username)
         userDatas.append(account.__dict__)
         # print(userDatas)
