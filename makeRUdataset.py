@@ -36,7 +36,7 @@ logins=[
     {   'username': 'mariorossi5775',
         'password':'vietatofumare'
     }
-    
+
 ]
 
 # Creo instanza di instagram
@@ -46,10 +46,10 @@ instagram=Instagram()
 login_username=logins[0].get('username')
 print("Loggato con: "+login_username)
 login_password=logins[0].get('password')
-logins = logins[1:] + logins[:1] 
+logins = logins[1:] + logins[:1]
 
 # proxy=proxies[0]
-# proxies = proxies[1:] + proxies[:1] 
+# proxies = proxies[1:] + proxies[:1]
 
 # instagram.set_proxies(proxy)
 instagram.with_credentials(login_username,login_password, 'pathtocache')
@@ -85,10 +85,10 @@ for username in usernames:
             # Prendo un nuovo username dalla cima e lo inserisco in fondo alla lista logins
             login_username=logins[0].get('username')
             login_password=logins[0].get('password')
-            logins = logins[1:] + logins[:1] 
+            logins = logins[1:] + logins[:1]
             # Imposto un nuovo proxy
             # proxy=proxies[0]
-            # proxies = proxies[1:] + proxies[:1] 
+            # proxies = proxies[1:] + proxies[:1]
             # instagram.set_proxies(proxy)
 
             sleep(randrange(60))
