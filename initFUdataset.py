@@ -25,24 +25,24 @@ file=open('fake_use_ds.txt','a')
 
 realUserSet=set()
 
-# For every username in the list take the first 500 followings and fill the real_users.txt file
+# For every username in the list take the first N followers and fill the real_users.txt file
 for username in users:
     print(username)
     sleep(10)
     account = instagram.get_account(username)
     sleep(2)
 
-    #Set how many followings you want to obtain
-    num_following=600
+    #Set how many followers you want to obtain
+    num_followers=600
     
-    # If the following of the user are less take all the followings
-    if (account.follows_count<num_following):
-        num_following=account.follows_count
+    # If the followers of the user are less take all the followers
+    if (account.follows_count<num_followers):
+        num_followers=account.follows_count
 
 
-    following = instagram.get_following(account.identifier,num_following,100, delayed=True) 
+    followers = instagram.get_following(account.identifier,num_followers,100, delayed=True) 
 
     #For every user, append it in the list
-    for following_user in following['accounts']:
-        realUserSet.add(following_user.username)
-        file.write(following_user.username+'\n')
+    for follower in followers['accounts']:
+        realUserSet.add(follower.username)
+        file.write(follower.username+'\n')
