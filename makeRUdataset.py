@@ -57,13 +57,13 @@ instagram.login()
 
 # Open the file with the list of user we trust for sure (do a copy first because it will be modified!!!)
 fru = open("real_users.txt", "r")
-fruc = open("real_users_checked.txt", "r")
+fruc = open("real_users_scraped.txt", "r")
 frudataJson=open('RUdataset.json','r')
 
 
 # Split all the user in the list in the file txt and remove \n as last character
 usernameschecked=set(map(lambda text: text.replace('\n',''),fruc.readlines()))
-fruc = open("real_users_checked.txt", "a+")
+fruc = open("real_users_scraped.txt", "a+")
 
 #Remove from the complete set of username the ones that we already checked
 usernames=set(map(lambda text: text.replace('\n',''),fru.readlines()))-usernameschecked
