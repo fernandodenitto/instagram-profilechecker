@@ -24,13 +24,13 @@ proxies=[
 
 # Lista di utenti daq usare per fare scraping
 logins=[
-     {   'username': 'querie_fornaini',
+    {   'username': 'querie_fornaini',
          'password':'Vietatofumare'
-     },
-    {   'username': 'nandobet92',
-        'password':'datamining'
     },
     {   'username': 'nandocheck',
+        'password':'datamining'
+    },
+    {   'username': 'nandobet92',
         'password':'datamining'
     },
     {   'username': 'mariorossi5775',

@@ -9,7 +9,7 @@ from igramscraper.instagram import Instagram
 from time import sleep
 
 instagram = Instagram()
-instagram.with_credentials('nandocheck', 'datamining', 'pathtocache')
+instagram.with_credentials('nandobet92', 'datamining', 'pathtocache')
 instagram.login()
 
 sleep(2) # Delay to mimic user
@@ -21,28 +21,30 @@ users=list(map(lambda text: text.replace('\n',''),ftu.readlines()))
 print (users)
 
 # Open the file where to collect the real instagram user toke from the following of the above trusted users
-file=open('fake_use_ds.txt','a')
+file=open('fake_users_ds.txt','a')
 
-realUserSet=set()
+fakeUsersSet=set()
 
 # For every username in the list take the first N followers and fill the real_users.txt file
 for username in users:
     print(username)
+    fakeUsersSet.add(username) #Add also the trusted fake
     sleep(10)
     account = instagram.get_account(username)
     sleep(2)
 
     #Set how many followers you want to obtain
-    num_followers=600
+    num_followers=100
+    print(account.followed_by_count)
     
     # If the followers of the user are less take all the followers
     if (account.follows_count<num_followers):
-        num_followers=account.follows_count
+        num_followers=account.followed_by_count
 
 
-    followers = instagram.get_following(account.identifier,num_followers,100, delayed=True) 
+    followers = instagram.get_followers(account.identifier,num_followers,num_followers, delayed=True) 
 
     #For every user, append it in the list
     for follower in followers['accounts']:
-        realUserSet.add(follower.username)
+        fakeUsersSet.add(follower.username)
         file.write(follower.username+'\n')
