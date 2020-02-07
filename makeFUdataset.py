@@ -19,8 +19,11 @@ logins=[
     # {   'username': 'querie_fornaini',
     #      'password':'Vietatofumare'
     # },
-    {   'username': '_giovanni_feola',
-         'password':'Vietatofumare'
+    # {   'username': '_giovanni_feola',
+    #      'password':'Vietatofumare'
+    # },
+    {   'username': 'internetfest',
+         'password':'internetfest19'
     }
     
 ]
