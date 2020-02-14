@@ -13,17 +13,17 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 
 # Lista di utenti daq usare per fare scraping
 logins=[
-    # {   'username': 'nandobet92',
+    # {   'username': 'miniamomini',
     #     'password':'datamining'
     # },
-    # {   'username': 'querie_fornaini',
-    #      'password':'Vietatofumare'
+    # {   'username': 'linoborsel',
+    #     'password':'datamining'
     # },
-    # {   'username': '_giovanni_feola',
-    #      'password':'Vietatofumare'
+    # {   'username': 'tore.evidenzia',
+    #     'password':'datamining'
     # },
-    {   'username': 'internetfest',
-         'password':'internetfest19'
+    {   'username': 'donatella.marchese.7',
+         'password':'vietatofumare'
     }
     
 ]
@@ -84,7 +84,7 @@ indexSleep=1
 # For every username scrape the datas with some pause for simulate a user usage
 for username in usernames:
     try:
-        if indexSleep%110==0:
+        if indexSleep%100==0:
             # Prendo un nuovo username dalla cima e lo inserisco in fondo alla lista logins
             login_username=logins[0].get('username')
             login_password=logins[0].get('password')
@@ -97,7 +97,7 @@ for username in usernames:
             # instagram.set_proxies(proxy)
             print("Proxy setted!"+proxy['http'])
 
-            sleep(randrange(300+randrange(30)))
+            sleep(5+(randrange(30)))
             instagram.with_credentials(login_username,login_password, 'pathtocache')
             instagram.login()
             print('Logged as: '+login_username)
