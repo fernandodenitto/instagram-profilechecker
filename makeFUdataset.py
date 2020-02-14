@@ -16,9 +16,9 @@ logins=[
     # {   'username': 'miniamomini',
     #     'password':'datamining'
     # },
-    # {   'username': 'linoborsel',
-    #     'password':'datamining'
-    # },
+    {   'username': 'linoborsel',
+        'password':'datamining'
+    },
     # {   'username': 'tore.evidenzia',
     #     'password':'datamining'
     # },
