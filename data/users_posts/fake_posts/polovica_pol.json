@@ -1,0 +1,835 @@
+{
+    "GraphImages": [
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/81614939_117046149824906_1586350732370758086_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=bNMQLku7I4wAX-La9we&se=8&oh=1abe3a58c5a9a89d64ff00bcbe72cfad&oe=5EDC5A87&ig_cache_key=MjIyNjExNjM5MDExNTUxMTkyNw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 16
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Не утомляйте себя поиском мастеров и другими заботами, связанными с монтажными работами.Все что вам необходимо, это выбрать ламинат, участвующий в акции «Укладка в Подарок» и оформить заказ.\nПодробности акции «Укладка в Подарок» уточняйте у менеджеров."
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2226116390115511927",
+            "is_video": false,
+            "media_preview": "ACoq2mpBUTybx8rbT64zTUaRyDwgB6fe3D68YpDKt5EjuHPHUN746Y9/8B9Kpgw4H68e1X54nkYqSNpP94ZA9cVikYrB3Wtj06D548rk7rs+n9foXcwfj9DUJMWeM4qCipudahbq/vOiKMRjpSxq6gZwMduv68VIKCa6DwTPaydlZMx4ck52ksMnPBz2qld4MhKjgADIHBI4OK1LiYxJx99uF/x/z3xWSvmjoCR6YPf/APUPyrOT6Hfh4tXqfJXdr9/8ivg9aMVbDznsff5fz7e9MLzE9/yFZ29fuO/mf93/AMC/4Bug5pScUlQXZxG30/wroZ4aV2l3djPn3zSFh8oXgZ4OOv69ajCTHHzHn/aPpVbcfWjcfU1geyo8qSVrLRaf8EsiOU4GeT0+b6f4iq5Zs9T+ZpNx9acTSKWm9vusf//Z",
+            "owner": {
+                "id": "21494679851"
+            },
+            "shortcode": "B7kwQ_1go53",
+            "tags": [],
+            "taken_at_timestamp": 1579593775,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/81614939_117046149824906_1586350732370758086_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=bNMQLku7I4wAX-La9we&oh=fa6ccc5e66e2e6162068b7a82a64f3c2&oe=5F010AC5&ig_cache_key=MjIyNjExNjM5MDExNTUxMTkyNw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/81614939_117046149824906_1586350732370758086_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=bNMQLku7I4wAX-La9we&oh=29e50d70eec95aeea4da5fa362b6792b&oe=5ECB4A8F&ig_cache_key=MjIyNjExNjM5MDExNTUxMTkyNw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/81614939_117046149824906_1586350732370758086_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=bNMQLku7I4wAX-La9we&oh=082cd5c57a21350f704c537e72b792e7&oe=5EC34A35&ig_cache_key=MjIyNjExNjM5MDExNTUxMTkyNw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/81614939_117046149824906_1586350732370758086_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=bNMQLku7I4wAX-La9we&oh=2974a589c31f81eea753b17bc3f10bef&oe=5EB8A26F&ig_cache_key=MjIyNjExNjM5MDExNTUxMTkyNw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/81614939_117046149824906_1586350732370758086_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=bNMQLku7I4wAX-La9we&oh=aa073f32f5f1955f737a148daa6ff97a&oe=5EC88262&ig_cache_key=MjIyNjExNjM5MDExNTUxMTkyNw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/81614939_117046149824906_1586350732370758086_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=bNMQLku7I4wAX-La9we&oh=aa073f32f5f1955f737a148daa6ff97a&oe=5EC88262&ig_cache_key=MjIyNjExNjM5MDExNTUxMTkyNw%3D%3D.2",
+            "urls": [
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/81614939_117046149824906_1586350732370758086_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=bNMQLku7I4wAX-La9we&se=8&oh=1abe3a58c5a9a89d64ff00bcbe72cfad&oe=5EDC5A87&ig_cache_key=MjIyNjExNjM5MDExNTUxMTkyNw%3D%3D.2"
+            ],
+            "username": "polovica_pol"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/79469065_172945657118215_2126265362399414646_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=EZvrLbGMF8sAX9i2lRE&se=7&oh=87facdcec7ff5013ed8d3820300b2b6b&oe=5ECCA9D1&ig_cache_key=MjIwOTQ5NzQ5Mjg1OTYxMDg0Mg%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 13
+            },
+            "edge_media_to_caption": {
+                "edges": []
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2209497492859610842",
+            "is_video": false,
+            "media_preview": "ACoqz4xkA8//AKqtxq6nK5BHfvVLIHQYGev+en9asB1P93P0P+NQamv9tfYQy/PjAbt9SPUfkfasaRsEA9fXJ6f057DqetSllI/h/Ig/rTMqev8AOkwsV2w/Izx19f8APoKhJb+8tWW25zj+dV8nsD+VBNrbDySoHP5dz05p4l3AIAOM8jqc+vr/AJ5qukgHUjB7f56U9ZI1O7GfUZ6+1MSepqQQts3qAxzwD1I9uf8A9dN+0Bey/j/+upPtcZwyldvoTj9M9v8A9VUZ51mYuMLn3GT7nPrSTZo0iRgsiGbeqndt2/pnrnPf0x3qqZfRjj2NV3K5z/X+tRcVVr7k3tsdP/wjsX99v0o/4R2L++36V0FFUZnP/wDCOxf32/Sj/hHYv77fpXQUUAc//wAI7F/fb9KP+Edi/vt+ldBRQB//2Q==",
+            "owner": {
+                "id": "21494679851"
+            },
+            "shortcode": "B6ptkNqA2ba",
+            "taken_at_timestamp": 1577612648,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/79469065_172945657118215_2126265362399414646_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=EZvrLbGMF8sAX9i2lRE&oh=6070a4fbca345d02fa652b57e5668c42&oe=5EBED893&ig_cache_key=MjIwOTQ5NzQ5Mjg1OTYxMDg0Mg%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/79469065_172945657118215_2126265362399414646_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=EZvrLbGMF8sAX9i2lRE&oh=67c2eabb8400bd6b44c9c7d229fd3eec&oe=5EBA90D9&ig_cache_key=MjIwOTQ5NzQ5Mjg1OTYxMDg0Mg%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/79469065_172945657118215_2126265362399414646_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=EZvrLbGMF8sAX9i2lRE&oh=4a0b761d1a4e1ed8540016ba584958e2&oe=5EDDA663&ig_cache_key=MjIwOTQ5NzQ5Mjg1OTYxMDg0Mg%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/79469065_172945657118215_2126265362399414646_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=EZvrLbGMF8sAX9i2lRE&oh=7b1a87b80527b2d21ad652435788ae34&oe=5ECA9C39&ig_cache_key=MjIwOTQ5NzQ5Mjg1OTYxMDg0Mg%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/79469065_172945657118215_2126265362399414646_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=EZvrLbGMF8sAX9i2lRE&oh=2a9d9b3e3797f745bf0989b33f5533f2&oe=5EBA4E34&ig_cache_key=MjIwOTQ5NzQ5Mjg1OTYxMDg0Mg%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/79469065_172945657118215_2126265362399414646_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=EZvrLbGMF8sAX9i2lRE&oh=2a9d9b3e3797f745bf0989b33f5533f2&oe=5EBA4E34&ig_cache_key=MjIwOTQ5NzQ5Mjg1OTYxMDg0Mg%3D%3D.2",
+            "urls": [
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/79469065_172945657118215_2126265362399414646_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=EZvrLbGMF8sAX9i2lRE&se=7&oh=87facdcec7ff5013ed8d3820300b2b6b&oe=5ECCA9D1&ig_cache_key=MjIwOTQ5NzQ5Mjg1OTYxMDg0Mg%3D%3D.2"
+            ],
+            "username": "polovica_pol"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/75196142_1511788965639386_6974018582172329138_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=AQyv130v49gAX_txHWU&se=7&oh=f7032ab924d151fb1fb0369050a5d397&oe=5EDDBFA6&ig_cache_key=MjE5NzEyNTYzMTQxNjg1MDM3Ng%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 16
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Дом – обволакивающий запахом благовоний, духов любимого человека и свежих цветов в вазе. В нем парят нотки любви и неповторимый аромат минут в кругу семьи. Именно этим ароматом мы пропитываемся насквозь и позтому он будет всегда для нас самым привлекательным ароматом в мире. \nДекор коллекции Aroma имеет объемную структуру, имитирующую глубокий рельеф браширования древесины, покрытой маслом. благодаря чему напоминают пол из настоящего дерева, что делает комнату теплой, уютной, дружелюбной и близкой к природе. \nТрехмерная поверхность выглядит естественно, точно повторяет волокна древесины на фотографическом слое. \nПо периметру каждой панели выполнена V-образная фаска — скосы по краям, визуально выделяющие каждую половицу. За счет фаски проявляется ритм пола в традиционном паркетном стиле. \nЛаминат Kronopol коллекции Aroma производится на заводе концерна Swiss Krono в Польше. Высокое европейское качество исполнения, экологическая безопасность, легкость в монтаже и эксплуатации — все это о ламинированных полах Кронопол серии Арома. Толщина панелей 10 мм и 33 класс прочности позволяют напольному покрытию коллекции Aroma служить на протяжении 30 лет. \n#polovica_pol \n#laminat \n#laminatbaranovichi \n#artvinil \n#vinil \n#parket \n#паркет \n#ламинат \n#ламинатбарановичи \n#половица"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2197125634487015737",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "21494679851"
+            },
+            "shortcode": "B59wh-qgNk5",
+            "tags": [
+                "ламинат",
+                "vinil",
+                "polovica_pol",
+                "laminat",
+                "ламинатбарановичи",
+                "laminatbaranovichi",
+                "паркет",
+                "половица",
+                "artvinil",
+                "parket"
+            ],
+            "taken_at_timestamp": 1576137807,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/75196142_1511788965639386_6974018582172329138_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=AQyv130v49gAX_txHWU&oh=cbb7642974acc01e100d8e3e873fe06e&oe=5ED5C499&ig_cache_key=MjE5NzEyNTYzMTQxNjg1MDM3Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/75196142_1511788965639386_6974018582172329138_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=AQyv130v49gAX_txHWU&oh=b4a272a39ecbdbab17c9239d6d5e4d45&oe=5EDE7F9F&ig_cache_key=MjE5NzEyNTYzMTQxNjg1MDM3Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/75196142_1511788965639386_6974018582172329138_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=AQyv130v49gAX_txHWU&oh=7a03f4c2b569bc78a3ec5c031ca691e6&oe=5EC2F1E1&ig_cache_key=MjE5NzEyNTYzMTQxNjg1MDM3Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/75196142_1511788965639386_6974018582172329138_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=AQyv130v49gAX_txHWU&oh=d6baad367caa90fc16490a60377d54cc&oe=5F036FA6&ig_cache_key=MjE5NzEyNTYzMTQxNjg1MDM3Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/75196142_1511788965639386_6974018582172329138_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=AQyv130v49gAX_txHWU&oh=6e224050c11a6bee6781b5c580b89046&oe=5EBD1D1C&ig_cache_key=MjE5NzEyNTYzMTQxNjg1MDM3Ng%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/75196142_1511788965639386_6974018582172329138_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=AQyv130v49gAX_txHWU&oh=6e224050c11a6bee6781b5c580b89046&oe=5EBD1D1C&ig_cache_key=MjE5NzEyNTYzMTQxNjg1MDM3Ng%3D%3D.2",
+            "urls": [
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/75196142_1511788965639386_6974018582172329138_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=AQyv130v49gAX_txHWU&se=7&oh=f7032ab924d151fb1fb0369050a5d397&oe=5EDDBFA6&ig_cache_key=MjE5NzEyNTYzMTQxNjg1MDM3Ng%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/75472264_152782922672420_1609671755086956974_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=-HfRbQAy574AX_HRDRo&oh=4575be5492261fa58763faf128424242&oe=5ECCD659&ig_cache_key=MjE5NzEyNTYzMTQyNTE2NzExNQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/74642781_163580288253799_6191705090846987588_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=VrgBuRRRplQAX9rwFnV&oh=64ed5e65d937f6a4b071022853df43a5&oe=5EB9FF8E&ig_cache_key=MjE5NzEyNTYzMTQzMzY0NTIwOQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/69864601_124027012395368_3813997288461283816_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=WR3uJsypotQAX82zRmv&oh=134b87bc37485abe185969f217930f55&oe=5ECF5088&ig_cache_key=MjE5NzEyNTYzMTQ0MjA4NzgwNQ%3D%3D.2"
+            ],
+            "username": "polovica_pol"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/74371172_1756241637843686_7904529787926967594_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=_CA4oHYwvlwAX_p1k1L&se=7&oh=1026a6c8e0326afa650c81b8efbbabce&oe=5ECBD4B7&ig_cache_key=MjE4MzUwMTA3MjQ1NzM1NzM3NQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 18
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Виниловые полы сочетают в себе ключевые преимущества трех напольных покрытий: красоту паркета, практичность линолеума и модульность плитки \nПреимущества виниловых полов • Влагостойкий. Вы что-то пролили на пол? Нет повода для беспокойства: виниловый пол не боится влаги. Смело укладывайте его на кухне и даже в ванной. • Износостойкий. Верхний полиуретановый слой защищает поверхность виниловых полов от истирания, царапин, выгорания, поэтому пол долго выглядит как новый. • Прочный и упругий. Виниловые полы достаточно жёсткие и одновременно эластичные. По ним приятно ходить, потому что они слегка «пружинят», и в то же время можно не бояться вмятин от ножек мебели, каблуков или кресел на колёсиках. • Тёплый. Виниловый пол выступает в роли утеплителя, он не пропускает холод от бетонной стяжки и оставляет всё тепло в помещении. Так что вы можете ходить по полу босиком и быть спокойны, когда на полу играют дети. • Устойчивый к перепаду температуры. Благодаря этому виниловый пол можно укладывать в неотапливаемом помещении, например, на балконе, а также он подходит для устройства полов с подогревом. • Нескользкий. Виниловые полы обладают хорошими антискользящими свойствами, даже если они влажные. Это особенно важно, когда в доме есть дети или пожилые люди. • Безопасный. Качественные виниловые полы от проверенных производителей безопасны как для человека, так и для окружающей среды. Они состоят из перерабатываемого сырья, не содержат и не выделяют вредных соединений. • Простой в уходе. Достаточно регулярной влажной уборки для поддержания чистоты. Виниловые полы не притягивают пыль, на них не страшно пролить кофе или красное вино – полы прекрасно чистятся любым нейтральным моющим средством. • Антистатичный. Можно забыть про неожиданные удары током при прикосновении к проводящим предметам. Поэтому виниловые полы можно смело использовать для офисов, магазинов и других общественных помещений. \n#polovica_pol \n#laminat \n#laminatbaranovichi \n#artvinil \n#vinil \n#parket \n#паркет \n#ламинат \n#ламинатбарановичи \n#половица"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 2
+            },
+            "gating_info": null,
+            "id": "2183501075594743958",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "21494679851"
+            },
+            "shortcode": "B5NWqjZghCW",
+            "tags": [
+                "ламинат",
+                "vinil",
+                "polovica_pol",
+                "laminat",
+                "ламинатбарановичи",
+                "laminatbaranovichi",
+                "паркет",
+                "половица",
+                "artvinil",
+                "parket"
+            ],
+            "taken_at_timestamp": 1574513633,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/74371172_1756241637843686_7904529787926967594_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=_CA4oHYwvlwAX_p1k1L&oh=ed7f9c2e7a7bcce11ac596ad3992f2fe&oe=5EBDE588&ig_cache_key=MjE4MzUwMTA3MjQ1NzM1NzM3NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/74371172_1756241637843686_7904529787926967594_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=_CA4oHYwvlwAX_p1k1L&oh=3c763eed615f44d272d198f1de588c96&oe=5EDE058E&ig_cache_key=MjE4MzUwMTA3MjQ1NzM1NzM3NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/74371172_1756241637843686_7904529787926967594_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=_CA4oHYwvlwAX_p1k1L&oh=648accc862d044ea8c7a1fee3355ba30&oe=5EBBBFF0&ig_cache_key=MjE4MzUwMTA3MjQ1NzM1NzM3NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/74371172_1756241637843686_7904529787926967594_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=_CA4oHYwvlwAX_p1k1L&oh=b8a81534373f347e0111329bcef722e9&oe=5EC090B7&ig_cache_key=MjE4MzUwMTA3MjQ1NzM1NzM3NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/74371172_1756241637843686_7904529787926967594_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=_CA4oHYwvlwAX_p1k1L&oh=a7def24b0b6dc8075bab4e097333ef8a&oe=5ECB1E0D&ig_cache_key=MjE4MzUwMTA3MjQ1NzM1NzM3NQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/74371172_1756241637843686_7904529787926967594_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=_CA4oHYwvlwAX_p1k1L&oh=a7def24b0b6dc8075bab4e097333ef8a&oe=5ECB1E0D&ig_cache_key=MjE4MzUwMTA3MjQ1NzM1NzM3NQ%3D%3D.2",
+            "urls": [
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/74371172_1756241637843686_7904529787926967594_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=_CA4oHYwvlwAX_p1k1L&se=7&oh=1026a6c8e0326afa650c81b8efbbabce&oe=5ECBD4B7&ig_cache_key=MjE4MzUwMTA3MjQ1NzM1NzM3NQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/70352040_145051483455916_6969251411240763497_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=Vy9ip1xH384AX-oo5Ey&se=7&oh=919b031ebadabc479d2a0b8d1244076e&oe=5EDECC03&ig_cache_key=MjE4MzUwMTA3MjQ0ODg4MTMwOQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72213203_2497480386972101_6178277673824152459_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=zp9-EI0xzCsAX-p5KXV&se=8&oh=e1da7ce5e46332ab3e4fc6be558b3cd8&oe=5EC541E9&ig_cache_key=MjE4MzUwMTA3MjQzMjI4ODk0OQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/75358247_172002387215876_6282715003011843635_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=p3ZARv5w4n8AX-uktX9&se=7&oh=ecb180b2f0ff4e4ba67e2583c84fbf79&oe=5ED37BE8&ig_cache_key=MjE4MzUwMTA3MjQ0ODkzMjY2Nw%3D%3D.2"
+            ],
+            "username": "polovica_pol"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/73470582_146713020014329_64162190624394284_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=IQdPvfpSU2AAX_63LJD&se=7&oh=b5a9e3b1704166781d08b017ad328fb1&oe=5EB9406E&ig_cache_key=MjE3MTg3ODIyNTE1OTAzOTY3OQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 11
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "В преддверии длинных выходных, которые можно смело назвать каникулами, мы снижаем цены на коллекцию ламината HOLIDAY от TARKETT. Это тот пол, который заставит вспомнить о теплых солнечных днях. Эти воспоминания, которые будут согревать Вас холодной зимой!  Только в магазине «Половица» Вы сможете приобрести пол, по которому приятно ходить босиком, к которому приятно прикасаться, по специальной цене: 22,00 бел. руб за м2. \nАкция действует до конца ноября. \n#polovica_pol \n#laminat \n#laminatbaranovichi \n#parket \n#паркет \n#ламинат \n#ламинатбарановичи \n#половица"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2171878227977502350",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "21494679851"
+            },
+            "shortcode": "B4kD73CAP6O",
+            "tags": [
+                "ламинат",
+                "polovica_pol",
+                "laminat",
+                "ламинатбарановичи",
+                "laminatbaranovichi",
+                "паркет",
+                "половица",
+                "parket"
+            ],
+            "taken_at_timestamp": 1573128082,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/73470582_146713020014329_64162190624394284_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=IQdPvfpSU2AAX_63LJD&oh=edcf6726996fef5006ead4cd683a91fc&oe=5EC7F46B&ig_cache_key=MjE3MTg3ODIyNTE1OTAzOTY3OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/73470582_146713020014329_64162190624394284_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=IQdPvfpSU2AAX_63LJD&oh=e2454df0eac0a80f41531b0daaa4c35f&oe=5EC63E86&ig_cache_key=MjE3MTg3ODIyNTE1OTAzOTY3OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/73470582_146713020014329_64162190624394284_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=IQdPvfpSU2AAX_63LJD&oh=ecc2e551adc06da0c9d0d7e73d0cbaf0&oe=5EC39195&ig_cache_key=MjE3MTg3ODIyNTE1OTAzOTY3OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/73470582_146713020014329_64162190624394284_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=IQdPvfpSU2AAX_63LJD&oh=abaafd911b6011e71381882554df9a9e&oe=5EC02489&ig_cache_key=MjE3MTg3ODIyNTE1OTAzOTY3OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/73470582_146713020014329_64162190624394284_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=IQdPvfpSU2AAX_63LJD&oh=3b8162670ec883d8cb705b5828205691&oe=5ECADB20&ig_cache_key=MjE3MTg3ODIyNTE1OTAzOTY3OQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/73470582_146713020014329_64162190624394284_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=IQdPvfpSU2AAX_63LJD&oh=3b8162670ec883d8cb705b5828205691&oe=5ECADB20&ig_cache_key=MjE3MTg3ODIyNTE1OTAzOTY3OQ%3D%3D.2",
+            "urls": [
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/73470582_146713020014329_64162190624394284_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=IQdPvfpSU2AAX_63LJD&se=7&oh=b5a9e3b1704166781d08b017ad328fb1&oe=5EB9406E&ig_cache_key=MjE3MTg3ODIyNTE1OTAzOTY3OQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/71145914_1458639034299906_7875219415558705877_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=106&_nc_ohc=qmN82fd5gWkAX-odenn&se=8&oh=4d057ad625beec4cdc093c1734dc1039&oe=5ED52D18&ig_cache_key=MjE3MTg3ODIyNTE5MjU0Mzk1OQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72652005_535302363931203_5358016784683591599_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=mAZXDbiYnkwAX9L0Cxi&se=8&oh=7fe8674388dfef10cbf8f56052fc374d&oe=5F02EA66&ig_cache_key=MjE3MTg3ODIyNTE4NDI1NTE4Mg%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/73312690_423250251938999_721256371424966833_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=9sre7Pz28uAAX_pJn1g&se=8&oh=a711af6b110723f4df925f10e83c47cf&oe=5EC9102A&ig_cache_key=MjE3MTg3ODIyNTE3NTcxNzI4NA%3D%3D.2"
+            ],
+            "username": "polovica_pol"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/74337081_548282539333113_3117207291352748155_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=H-ha9gG6SikAX9MR-Bo&se=7&oh=52ad734b21f4080afd2c4c5f0dd511c9&oe=5EBC3E4A&ig_cache_key=MjE3MTc2NjAyMjYxMTI2OTIxMg%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 14
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "В преддверии длинных выходных, которые можно смело назвать каникулами, мы снижаем цены на коллекцию ламината HOLIDAY от TARKETT. Это тот пол, который заставит вспомнить о теплых солнечных днях. Эти воспоминания, которые будут согревать Вас холодной зимой!  Только в магазине «Половица» Вы сможете приобрести пол, по которому приятно ходить босиком, к которому приятно прикасаться, по специальной цене: 22,00 бел. руб за м2. \nАкция действует до конца ноября. \n#polovica_pol \n#laminat \n#laminatbaranovichi \n#parket\n#tarkett\n#паркет \n#ламинат \n#ламинатбарановичи \n#половица"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2171766024968401689",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "21494679851"
+            },
+            "shortcode": "B4jqbF1gPMZ",
+            "tags": [
+                "ламинат",
+                "polovica_pol",
+                "laminat",
+                "ламинатбарановичи",
+                "laminatbaranovichi",
+                "паркет",
+                "половица",
+                "tarkett",
+                "parket"
+            ],
+            "taken_at_timestamp": 1573114706,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/74337081_548282539333113_3117207291352748155_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=H-ha9gG6SikAX9MR-Bo&oh=6303e7fc0ad9d93593cd0d456fdcfb4f&oe=5F021808&ig_cache_key=MjE3MTc2NjAyMjYxMTI2OTIxMg%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/74337081_548282539333113_3117207291352748155_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=H-ha9gG6SikAX9MR-Bo&oh=a10bdb4ce00d9ca9efb12c02cd2a1313&oe=5EBE7A42&ig_cache_key=MjE3MTc2NjAyMjYxMTI2OTIxMg%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/74337081_548282539333113_3117207291352748155_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=H-ha9gG6SikAX9MR-Bo&oh=601d12d08e60c1d8112c9c50d5ab2f43&oe=5ED308F8&ig_cache_key=MjE3MTc2NjAyMjYxMTI2OTIxMg%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/74337081_548282539333113_3117207291352748155_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=H-ha9gG6SikAX9MR-Bo&oh=1ef142627c2c02466589bf3182408248&oe=5EC3C2A2&ig_cache_key=MjE3MTc2NjAyMjYxMTI2OTIxMg%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/74337081_548282539333113_3117207291352748155_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=H-ha9gG6SikAX9MR-Bo&oh=e957b35bd2f84bb7dd41be8f55acc725&oe=5EBDBBAF&ig_cache_key=MjE3MTc2NjAyMjYxMTI2OTIxMg%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/74337081_548282539333113_3117207291352748155_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=H-ha9gG6SikAX9MR-Bo&oh=e957b35bd2f84bb7dd41be8f55acc725&oe=5EBDBBAF&ig_cache_key=MjE3MTc2NjAyMjYxMTI2OTIxMg%3D%3D.2",
+            "urls": [
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/74337081_548282539333113_3117207291352748155_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=H-ha9gG6SikAX9MR-Bo&se=7&oh=52ad734b21f4080afd2c4c5f0dd511c9&oe=5EBC3E4A&ig_cache_key=MjE3MTc2NjAyMjYxMTI2OTIxMg%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/77381913_459912754730493_725834060389818594_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=wgP_Xaf3C3MAX8Zm6Bs&se=8&oh=19214269594fda315a1cea4b8ef4018b&oe=5F0159DA&ig_cache_key=MjE3MTc2NjAyMjYyODAyODU0OQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/75281154_2681344932101781_1043512243015307056_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=piwqjEnrmr4AX8wHYde&se=8&oh=97bd988c28bb17423427d00ea4a94e5d&oe=5EC0B0FD&ig_cache_key=MjE3MTc2NjAyMjYxOTcxODEwOQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/75239265_738108163359130_8435840252180850186_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=qNoaT_5dXXsAX9hSZnb&se=8&oh=ba0e66dca62222132958bdf8e8dc687e&oe=5ECECF6F&ig_cache_key=MjE3MTc2NjAyMjYyODExNjcwNQ%3D%3D.2"
+            ],
+            "username": "polovica_pol"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 640,
+                "width": 640
+            },
+            "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/75629748_146486720002185_5550124804854731142_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=nC2S4LdlkNEAX8n9Rxo&oh=17853e761f6c0c70ee9564a9091213d5&oe=5ED7BC74&ig_cache_key=MjE2NDUxNTgwNTY0MjAzNjkwNQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 17
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Художественный ламинат Clic&Go Versailles от компании Quick-step прекрасно подходит для классического интерьера. Декор выполнен в стиле дворцового паркета в насыщенном коричневом цвете с выразительным тиснением и структурной поверхностью - идеальный вариант для гостиной, спальни, коридора. Размер 1200×396мм, общая толщина HDF плиты 8мм. По периметру доска подчёркнута 4V вдавленной фаской, которая добавляет внешнему виду естественность натуральной древесины. При изменении освещения поверхность меняет матовый оттенок на сатиновый. \nQuick step Clic Go Versailles - ламинат 33 класса прочности, с максимальной защитой от царапин AC5. Допустимо использование в квартире и доме, а также в коммерческих помещениях с усиленной нагрузкой. \nДополнительные плюсы новой коллекции: • Splash Warranty – гарантированная защита от случайно пролитой воды. • Высокие эксплуатационные характеристики. • Совместим с тёплыми полами до +27°C. • Простая сборка без щелей и скрипа в будущем. • Uniclic – самое надёжное замковое соединение. • Антистатик - не накапливает статическое электричество. • Классика и элегантность паркета - привлекает внимание.\n\n#polovica_pol \n#laminat \n#laminatbaranovichi \n#parket \n#паркет \n#ламинат \n#ламинатбарановичи \n#половица"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2164515809542662200",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "21494679851"
+            },
+            "shortcode": "B4J56kigeg4",
+            "tags": [
+                "ламинат",
+                "polovica_pol",
+                "laminat",
+                "ламинатбарановичи",
+                "laminatbaranovichi",
+                "паркет",
+                "половица",
+                "parket"
+            ],
+            "taken_at_timestamp": 1572250413,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/75629748_146486720002185_5550124804854731142_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=nC2S4LdlkNEAX8n9Rxo&oh=55895fb8b2c8ab1c31280f95f2a78d6f&oe=5EB89736&ig_cache_key=MjE2NDUxNTgwNTY0MjAzNjkwNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/75629748_146486720002185_5550124804854731142_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=nC2S4LdlkNEAX8n9Rxo&oh=0025ec29039b8515dc6e5000cd1bad11&oe=5ED00C7C&ig_cache_key=MjE2NDUxNTgwNTY0MjAzNjkwNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/75629748_146486720002185_5550124804854731142_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=nC2S4LdlkNEAX8n9Rxo&oh=a76f498c0d18a1744804d139db2ba9fe&oe=5EC5B0C6&ig_cache_key=MjE2NDUxNTgwNTY0MjAzNjkwNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/75629748_146486720002185_5550124804854731142_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=nC2S4LdlkNEAX8n9Rxo&oh=81c8cc8b66c6bf58d41864d42b5015ec&oe=5ECE6A9C&ig_cache_key=MjE2NDUxNTgwNTY0MjAzNjkwNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/75629748_146486720002185_5550124804854731142_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=nC2S4LdlkNEAX8n9Rxo&oh=17853e761f6c0c70ee9564a9091213d5&oe=5ED7BC74&ig_cache_key=MjE2NDUxNTgwNTY0MjAzNjkwNQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/75629748_146486720002185_5550124804854731142_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=nC2S4LdlkNEAX8n9Rxo&oh=17853e761f6c0c70ee9564a9091213d5&oe=5ED7BC74&ig_cache_key=MjE2NDUxNTgwNTY0MjAzNjkwNQ%3D%3D.2",
+            "urls": [
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/75629748_146486720002185_5550124804854731142_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=nC2S4LdlkNEAX8n9Rxo&oh=17853e761f6c0c70ee9564a9091213d5&oe=5ED7BC74&ig_cache_key=MjE2NDUxNTgwNTY0MjAzNjkwNQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/73385819_559956844759245_7986075502013216317_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=HY_ImYUG2gcAX9RSH_2&oh=f58e15c7bb405234ca3a4b5c114bd03c&oe=5EC7CE2F&ig_cache_key=MjE2NDUxNTgwNTYyNTIyMDgxOQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72423200_1015575872116041_4608537941997163052_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=Ktp64pb_7TYAX8NP_qF&oh=938903275612653d3df0af67b94b2ee6&oe=5EC72E33&ig_cache_key=MjE2NDUxNTgwNTY0MTg1NzEwOQ%3D%3D.2"
+            ],
+            "username": "polovica_pol"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 480,
+                "width": 480
+            },
+            "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72484245_146747639941736_1737537128569737406_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=h7mQFYADKeIAX_N2N6p&oh=c31b9f7819f20057d7a4d42db1433eb6&oe=5ECD4CC1&ig_cache_key=MjE1OTU2MDExNzE0NDkxNDk5Ng%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 14
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Tarkett Cinema – это трендовый ламинат арт-винтажного стиля.  Темой коллекции Cinema стал кинематограф. Отличительной чертой данной коллекции является винтажный дизайн, глубокое тиснение, одновременное использование матовой и хромированной поверхности, необычайный эффект ручной обработки дерева и создание эффекта оптической фаски на доске.  Характеристики: 32 класс, толщина 8 мм, замковая система TC-lock, Технология Tech3S - защита от влаги.  Если Вы стремитесь сделать свой дом уникальным, если Вы - коллекционер прекрасного, будь то старые фильмы или редкие вещи, то у Вас есть прекрасная возможность приобрести отличный винтажный ламинат по демократичным ценам в магазине напольных покрытий «Половица». #polovica_pol \n#laminat \n#laminatbaranovichi \n#ламинат \n#ламинатбарановичи \n#половица \n#tarkett"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2159560120567413297",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "21494679851"
+            },
+            "shortcode": "B34THzhhTox",
+            "tags": [
+                "ламинат",
+                "polovica_pol",
+                "laminat",
+                "ламинатбарановичи",
+                "laminatbaranovichi",
+                "половица",
+                "tarkett"
+            ],
+            "taken_at_timestamp": 1571659649,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/72484245_146747639941736_1737537128569737406_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=h7mQFYADKeIAX_N2N6p&oh=5478b45068ba62f37061086f5198ce6a&oe=5ED75B83&ig_cache_key=MjE1OTU2MDExNzE0NDkxNDk5Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/72484245_146747639941736_1737537128569737406_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=h7mQFYADKeIAX_N2N6p&oh=f04955b7a2410830ca3c91b3df02c0bc&oe=5EBCF4C9&ig_cache_key=MjE1OTU2MDExNzE0NDkxNDk5Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/72484245_146747639941736_1737537128569737406_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=h7mQFYADKeIAX_N2N6p&oh=c2148368a2e19ba23791bfdee1dd1841&oe=5ECF9573&ig_cache_key=MjE1OTU2MDExNzE0NDkxNDk5Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72484245_146747639941736_1737537128569737406_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=h7mQFYADKeIAX_N2N6p&oh=c31b9f7819f20057d7a4d42db1433eb6&oe=5ECD4CC1&ig_cache_key=MjE1OTU2MDExNzE0NDkxNDk5Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72484245_146747639941736_1737537128569737406_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=h7mQFYADKeIAX_N2N6p&oh=c31b9f7819f20057d7a4d42db1433eb6&oe=5ECD4CC1&ig_cache_key=MjE1OTU2MDExNzE0NDkxNDk5Ng%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72484245_146747639941736_1737537128569737406_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=h7mQFYADKeIAX_N2N6p&oh=c31b9f7819f20057d7a4d42db1433eb6&oe=5ECD4CC1&ig_cache_key=MjE1OTU2MDExNzE0NDkxNDk5Ng%3D%3D.2",
+            "urls": [
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72484245_146747639941736_1737537128569737406_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=h7mQFYADKeIAX_N2N6p&oh=c31b9f7819f20057d7a4d42db1433eb6&oe=5ECD4CC1&ig_cache_key=MjE1OTU2MDExNzE0NDkxNDk5Ng%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/75272152_496986911150792_1710516503230913800_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=hsNg4nx_Nv8AX-oMo-L&se=8&oh=fb79360b765f41f1552ecfa32d4ea01a&oe=5EB80C96&ig_cache_key=MjE1OTU2MDExNzE1MzIzODYxMw%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/73414166_579778989256676_5483175206686671747_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=0WXq_H30044AX-3YN7f&se=8&oh=f0789fd622900e0b73c03a2ca3dbbd3c&oe=5ECDEA02&ig_cache_key=MjE1OTU2MDExNzExMTI1NjY1NQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/71107153_179433223187886_5039883071177403102_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=106&_nc_ohc=qNEM_TaQ7RcAX8Kh62C&se=8&oh=043ac7a2eaca1270c07f02350643875f&oe=5EBE544F&ig_cache_key=MjE1OTU2MDExNzEzNjQzMDI5MA%3D%3D.2"
+            ],
+            "username": "polovica_pol"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1200,
+                "width": 1080
+            },
+            "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/70819359_161098961663669_7652404869503746467_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=3Q5MdA0FBAEAX_jtXhO&se=7&oh=91716ff9acd3b1dd1fa0b100b155966a&oe=5ED09D10&ig_cache_key=MjE1NzUwMDU1NTkwNjY4NDUyOQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 11
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Специально для Вас мы подготовили предложение по рассрочке. Теперь приобрести напольные покрытия в нашем магазине можно в рассрочку с Картой Покупок, сроком на 3 месяца, картой Магнит, сроком на 2 месяца, а также воспользовавшись Рассрочкой без переплат от Беларусбанка сроком от 6 до 12 месяцев.\n#паркет \n#ламинат \n#паркетбарановичи \n#ламинатбарановичи \n#половица \n#ремонт \n#polovica_pol \n#laminat \n#parket \n#linoleum \n#laminatbaranovichi \n#parketbaranovichi \n#linoleumbaranovichi"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2157500555906684529",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "21494679851"
+            },
+            "shortcode": "B3w-1MdhpZx",
+            "tags": [
+                "ламинат",
+                "polovica_pol",
+                "ламинатбарановичи",
+                "ремонт",
+                "laminat",
+                "laminatbaranovichi",
+                "паркет",
+                "половица",
+                "паркетбарановичи",
+                "parketbaranovichi",
+                "linoleum",
+                "linoleumbaranovichi",
+                "parket"
+            ],
+            "taken_at_timestamp": 1571414130,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/c0.60.1080.1080a/s150x150/70819359_161098961663669_7652404869503746467_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=3Q5MdA0FBAEAX_jtXhO&oh=9b26f55180c806358b206cc64246cc48&oe=5EC56CF2&ig_cache_key=MjE1NzUwMDU1NTkwNjY4NDUyOQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/c0.60.1080.1080a/s240x240/70819359_161098961663669_7652404869503746467_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=3Q5MdA0FBAEAX_jtXhO&oh=c234e63c350b0306c68e49ee6ed3d418&oe=5EBA89B8&ig_cache_key=MjE1NzUwMDU1NTkwNjY4NDUyOQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/c0.60.1080.1080a/s320x320/70819359_161098961663669_7652404869503746467_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=3Q5MdA0FBAEAX_jtXhO&oh=05ce56d822fdd0e6d4cf6886ba849f29&oe=5EB80B02&ig_cache_key=MjE1NzUwMDU1NTkwNjY4NDUyOQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/c0.60.1080.1080a/s480x480/70819359_161098961663669_7652404869503746467_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=3Q5MdA0FBAEAX_jtXhO&oh=aa016bc1e46219211600d38f671d541a&oe=5ECD9C58&ig_cache_key=MjE1NzUwMDU1NTkwNjY4NDUyOQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.60.1080.1080a/s640x640/70819359_161098961663669_7652404869503746467_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=3Q5MdA0FBAEAX_jtXhO&oh=1a5fa824599966ca13234345f22e0b88&oe=5ED10CE9&ig_cache_key=MjE1NzUwMDU1NTkwNjY4NDUyOQ%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.60.1080.1080a/s640x640/70819359_161098961663669_7652404869503746467_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=3Q5MdA0FBAEAX_jtXhO&oh=1a5fa824599966ca13234345f22e0b88&oe=5ED10CE9&ig_cache_key=MjE1NzUwMDU1NTkwNjY4NDUyOQ%3D%3D.2.c",
+            "urls": [
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/70819359_161098961663669_7652404869503746467_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=3Q5MdA0FBAEAX_jtXhO&se=7&oh=91716ff9acd3b1dd1fa0b100b155966a&oe=5ED09D10&ig_cache_key=MjE1NzUwMDU1NTkwNjY4NDUyOQ%3D%3D.2"
+            ],
+            "username": "polovica_pol"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72475006_401924703812133_8412178431710323805_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=OeVe6jK4HNUAX8GQRb0&se=7&oh=5852276ed035f548146023c74c1f4271&oe=5EBDA5D2&ig_cache_key=MjE1NTMxMTg0NDUyMzYyODY0MA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 14
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Главное отличие и основное преимущество паркетной доски перед ламинатом – это ее натуральность и экологичность. Паркетная доска изготавливается полностью из натурального дерева, это частица живой природы у вас дома. Паркет более теплый и приятный на ощупь, это настоящий живой материал, который обладает положительной энергетикой. Он придаст вашему дому уют и сможет по-настоящему радовать и согревать вас и всю вашу семью. \nЕсли вы все еще сомневаетесь, какое напольное покрытие выбрать, приглашаем вас посетить наш магазин «Половица». У нас вы найдете как паркетную доску, так и ламинат, и мы поможем вам разобраться и сделать правильный выбор, исходя из ваших потребностей! 🖖🏻 #паркет \n#ламинат \n#паркетбарановичи \n#ламинатбарановичи \n#половица \n#ремонт\n#ремонтквартир\n#polovica_pol"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2155311847887501729",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "21494679851"
+            },
+            "shortcode": "B3pNLTRhnmh",
+            "tags": [
+                "ламинат",
+                "polovica_pol",
+                "ламинатбарановичи",
+                "ремонт",
+                "паркет",
+                "половица",
+                "паркетбарановичи",
+                "ремонтквартир"
+            ],
+            "taken_at_timestamp": 1571153215,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/72475006_401924703812133_8412178431710323805_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=OeVe6jK4HNUAX8GQRb0&oh=e3d37bf1d3dab7de7668266bf1a188f5&oe=5EC47990&ig_cache_key=MjE1NTMxMTg0NDUyMzYyODY0MA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/72475006_401924703812133_8412178431710323805_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=OeVe6jK4HNUAX8GQRb0&oh=4c5821c2d3cd57150ff2a8c2453e7bc2&oe=5EC5ACDA&ig_cache_key=MjE1NTMxMTg0NDUyMzYyODY0MA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/72475006_401924703812133_8412178431710323805_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=OeVe6jK4HNUAX8GQRb0&oh=b781fd04ed0d793348de3d9d3cfd02d1&oe=5EC04E60&ig_cache_key=MjE1NTMxMTg0NDUyMzYyODY0MA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/72475006_401924703812133_8412178431710323805_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=OeVe6jK4HNUAX8GQRb0&oh=25133609dba4ea0ee76554b1b47bc1d7&oe=5EBB5C3A&ig_cache_key=MjE1NTMxMTg0NDUyMzYyODY0MA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/72475006_401924703812133_8412178431710323805_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=OeVe6jK4HNUAX8GQRb0&oh=2bd22f4a63d59d3d10beb13241be44d3&oe=5ED38B37&ig_cache_key=MjE1NTMxMTg0NDUyMzYyODY0MA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/72475006_401924703812133_8412178431710323805_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=OeVe6jK4HNUAX8GQRb0&oh=2bd22f4a63d59d3d10beb13241be44d3&oe=5ED38B37&ig_cache_key=MjE1NTMxMTg0NDUyMzYyODY0MA%3D%3D.2",
+            "urls": [
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72475006_401924703812133_8412178431710323805_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=OeVe6jK4HNUAX8GQRb0&se=7&oh=5852276ed035f548146023c74c1f4271&oe=5EBDA5D2&ig_cache_key=MjE1NTMxMTg0NDUyMzYyODY0MA%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/71044545_2362882633926708_6489304414982297445_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=mlmKFxg9134AX8tDY3r&se=7&oh=f002c5d8a860c0c0b7ffc24d6a21ad90&oe=5EC31FBF&ig_cache_key=MjE1NTMxMTg0NDUzMTkxNjEwMw%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72121738_2075484045886155_6888532269815917014_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=9DVfoKRoWj4AX9pY1-n&se=7&oh=f88252cf8cc6818e40228f5edd027191&oe=5EC2E34C&ig_cache_key=MjE1NTMxMTg0NDUwNjc5NTgyMg%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/71191445_2331373440293507_5866276787755414512_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=UlYwcs251YwAX-c107H&se=7&oh=cdf663592582956a243ce9e69099a732&oe=5EBB8F78&ig_cache_key=MjE1NTMxMTg0NDUxNTI5NDM0Mw%3D%3D.2"
+            ],
+            "username": "polovica_pol"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/70326864_179573673089928_1778233890362647487_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=ZtTN_etP0DUAX_mDhzf&se=7&oh=884dd30382be52d7cebee167d787f472&oe=5ED0E808&ig_cache_key=MjE0OTUzMjkxMDUzNjEwNTMwMA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 15
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "#polovica_pol\n#laminat\n#parket\n#linoleum\n#laminatbaranovichi \n#parketbaranovichi\n#linoleumbaranovichi"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2149532913438779567",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "21494679851"
+            },
+            "shortcode": "B3UrMvKh2iv",
+            "tags": [
+                "polovica_pol",
+                "laminat",
+                "laminatbaranovichi",
+                "parketbaranovichi",
+                "linoleum",
+                "linoleumbaranovichi",
+                "parket"
+            ],
+            "taken_at_timestamp": 1570464313,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/70326864_179573673089928_1778233890362647487_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=ZtTN_etP0DUAX_mDhzf&oh=30015443256ebb8a4ba56550468e10ed&oe=5ED46E4A&ig_cache_key=MjE0OTUzMjkxMDUzNjEwNTMwMA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/70326864_179573673089928_1778233890362647487_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=ZtTN_etP0DUAX_mDhzf&oh=2d6c37bd0324caa9855e1496b336cc09&oe=5EC41C00&ig_cache_key=MjE0OTUzMjkxMDUzNjEwNTMwMA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/70326864_179573673089928_1778233890362647487_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=ZtTN_etP0DUAX_mDhzf&oh=a9c8689c2804ee7c491098e88fa530b4&oe=5F00B0BA&ig_cache_key=MjE0OTUzMjkxMDUzNjEwNTMwMA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/70326864_179573673089928_1778233890362647487_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=ZtTN_etP0DUAX_mDhzf&oh=95732b78286df14ddb466b839969d03f&oe=5ED565E0&ig_cache_key=MjE0OTUzMjkxMDUzNjEwNTMwMA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/70326864_179573673089928_1778233890362647487_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=ZtTN_etP0DUAX_mDhzf&oh=b6462f6614625493e489e9827436d483&oe=5ECF90ED&ig_cache_key=MjE0OTUzMjkxMDUzNjEwNTMwMA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/70326864_179573673089928_1778233890362647487_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=ZtTN_etP0DUAX_mDhzf&oh=b6462f6614625493e489e9827436d483&oe=5ECF90ED&ig_cache_key=MjE0OTUzMjkxMDUzNjEwNTMwMA%3D%3D.2",
+            "urls": [
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/70326864_179573673089928_1778233890362647487_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=ZtTN_etP0DUAX_mDhzf&se=7&oh=884dd30382be52d7cebee167d787f472&oe=5ED0E808&ig_cache_key=MjE0OTUzMjkxMDUzNjEwNTMwMA%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/70316555_3007430719271045_1514463038069450213_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=icY55Rc5J-wAX-KFDD8&se=7&oh=4ac4f3c67ca48ecdf21d5703c7804c5e&oe=5ECD9B86&ig_cache_key=MjE0OTUzMjkxMDQ5NDE1Njg2NQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/72397147_172553627204814_5086528497740095679_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=106&_nc_ohc=RO7RiasvSdkAX8fJKrO&se=7&oh=52fc7c65223349e5e903c011060e9ec7&oe=5F01C66F&ig_cache_key=MjE0OTUzMjkxMDU0NDU4MzI1OQ%3D%3D.2",
+                "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/71832209_486046662126567_341552791596445911_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=Xg4Yz7H_YnQAX8P3OF1&se=7&oh=a67e4eb2de90a637c163153eb3c68170&oe=5EB8B347&ig_cache_key=MjE0OTUzMjkxMDUxOTM5MzY5MQ%3D%3D.2"
+            ],
+            "username": "polovica_pol"
+        }
+    ]
+}
