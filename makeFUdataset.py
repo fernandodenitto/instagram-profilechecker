@@ -13,19 +13,18 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 
 # Lista di utenti daq usare per fare scraping
 logins=[
-    {   'username': 'miniamomini',
-        'password':'datamining'
-    },
+    # {   'username': 'miniamomini',
+    #     'password':'datamining'
+    # },
     # {   'username': 'linoborsel',
     #     'password':'datamining'
     # },
     # {   'username': 'tore.evidenzia',
     #     'password':'datamining'
     # },
-    # {   'username': 'donatella.marchese.7',
-    #      'password':'vietatofumare'
-    # }
-    
+    {   'username': 'donatella.marchese.7',
+         'password':'vietatofumare'
+    }
 ]
 
 # Proxies setting
