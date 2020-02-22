@@ -5,7 +5,6 @@ import statistics
 from scipy.stats import skew 
 import pandas
 
-
 def emptyPicProfileFromURL(picProfileURL):
 
     """ Check if the URL of the Profile Pic contains the substring 
@@ -34,7 +33,11 @@ def addItems(users, data, real):
         # Follows count
         item["follows_count"] = user["follows_count"]
         # Follower/Followed ratio
-        item["ff_ratio"] = item["followed_by_count"]/(item["follows_count"] + 1)
+        if item["follows_count"] == 0:
+            item["ff_ratio"] = item["followed_by_count"]/(item["follows_count"] + 1)
+        else:
+            item["ff_ratio"] = item["followed_by_count"]/(item["follows_count"])
+        
         # Media count
         item["media_count"] = user["media_count"]
         # Private
@@ -48,7 +51,7 @@ def addItems(users, data, real):
         # Highlight reel count
         item["highlight_reel_count"] = user["highlight_reel_count"]
         # Connected Facebook Page
-        item["connected_fb_page"] = False if user["connected_fb_page"] == None else True
+        #item["connected_fb_page"] = False if user["connected_fb_page"] == None else True
 
         if real==True:
             directory = "real_posts/"
@@ -62,7 +65,7 @@ def addItems(users, data, real):
                 likes = []
                 dates = []
                 videos = 0
-
+                
                 for post in users_posts["GraphImages"]:
                     comments.append(post["edge_media_to_comment"]["count"])
                     likes.append(post["edge_media_preview_like"]["count"])
