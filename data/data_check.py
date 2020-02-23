@@ -6,9 +6,12 @@ from scipy.stats import skew
 import pandas
 
 with open('usernames/removed_list.txt', 'r') as f:
-    myNames = [line.strip() for line in f]
+    removedList = [line.strip() for line in f]
 
-print(myNames)
+with open('usernames/ignore_list.txt', 'r') as f:
+    removedList = [line.strip() for line in f]
+
+print(removedList)
 
 
 # data = []
