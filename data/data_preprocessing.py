@@ -23,7 +23,7 @@ def addItems(users, data, real):
         if user["username"] not in ignoreList:
             item = {}
             username = user["username"]
-            item["username"] = user["username"]
+            #item["username"] = user["username"]
             # Profile picture present
             item["profile_pic"] = False if emptyPicProfileFromURL(user["profile_pic_url"]) else True
             # Biography present
