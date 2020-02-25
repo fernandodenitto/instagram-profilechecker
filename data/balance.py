@@ -17,7 +17,7 @@ else:
 
 data = []
 data = pd.concat([datareal, datafake])
-datareal.to_csv("balanced_real_data.csv",index=False) 
-datafake.to_csv("balanced_fake_data.csv",index=False) 
+datareal.to_csv("balanced_data_real.csv",index=False) 
+datafake.to_csv("balanced_data_fake.csv",index=False) 
 data.to_csv("balanced_data.csv",index=False) 
 
