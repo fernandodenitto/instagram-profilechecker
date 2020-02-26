@@ -15,13 +15,13 @@ instagram.login()
 sleep(2) # Delay to mimic user
 
 # Open the file with the list of user we trust for sure
-ftu = open("real_users_origin.txt", "r")
+ftu = open("../usernames/real_users_origin.txt", "r")
 # Split all the user in the list in the file txt and remove \n as last character
 users=list(map(lambda text: text.replace('\n',''),ftu.readlines()))
 print (users)
 
 # Open the file where to collect the real instagram user toke from the following of the above trusted users
-file=open('real_users.txt','a')
+file=open('../usernames/real_users.txt','a')
 
 realUserSet=set()
 

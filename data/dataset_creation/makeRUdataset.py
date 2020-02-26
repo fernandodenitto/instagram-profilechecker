@@ -24,19 +24,18 @@ proxies=[
 
 # Lista di utenti daq usare per fare scraping
 logins=[
-    {   'username': 'querie_fornaini',
-         'password':'Vietatofumare'
-    },
-    {   'username': 'nandocheck',
+    {   'username': 'miniamomini',
         'password':'datamining'
     },
-    {   'username': 'nandobet92',
-        'password':'datamining'
-    },
-    {   'username': 'mariorossi5775',
-        'password':'vietatofumare'
+    # {   'username': 'linoborsel',
+    #     'password':'datamining'
+    # },
+    # {   'username': 'tore.evidenzia',
+    #     'password':'datamining'
+    # },
+    {   'username': 'donatella.marchese.7',
+         'password':'vietatofumare'
     }
-
 ]
 
 # Creo instanza di instagram
@@ -56,14 +55,14 @@ instagram.with_credentials(login_username,login_password, 'pathtocache')
 instagram.login()
 
 # Open the file with the list of user we trust for sure (do a copy first because it will be modified!!!)
-fru = open("real_users.txt", "r")
-fruc = open("real_users_scraped.txt", "r")
-frudataJson=open('RUdataset.json','r')
+fru = open("../usernames/fake_users.txt", "r")
+fruc = open("../usernames/fake_users_scraped.txt", "r")
+frudataJson=open('../users_data/FUdataset.json','r')
 
 
 # Split all the user in the list in the file txt and remove \n as last character
 usernameschecked=set(map(lambda text: text.replace('\n',''),fruc.readlines()))
-fruc = open("real_users_scraped.txt", "a+")
+fruc = open("../usernames/fake_users_scraped.txt", "a+")
 
 #Remove from the complete set of username the ones that we already checked
 usernames=set(map(lambda text: text.replace('\n',''),fru.readlines()))-usernameschecked
