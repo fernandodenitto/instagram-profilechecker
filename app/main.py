@@ -194,8 +194,7 @@ def main():
     item = GenerateData(ProfileData)
     
 
-    with open('UserData.json', 'w') as outfile:
-        json.dump(item, outfile, indent=4)
+    print(item)
 
     
 
