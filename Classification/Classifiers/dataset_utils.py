@@ -13,6 +13,7 @@ def fix_private_entries(dataset):
     # to switch to private and delete the statistic informations dropping additional infos 
     # that could be interesting and useful for the classification problem.
     dataset.loc[(dataset['is_private']==True)&(dataset['min_likes'].notnull()),['is_private']] = False
+    dataset.loc[(dataset['is_private'] ==False)&(dataset['min_likes'].isnull())&(dataset['media_count']!=0),['is_private']]=True
     return dataset
 
 def get_target_dataset(dataset):
