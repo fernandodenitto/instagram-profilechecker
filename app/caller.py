@@ -3,6 +3,12 @@ import wx
 from scrapers.profile.igramscraper.instagram import Instagram
 from preprocess_data import *
 from time import sleep
+import pickle
+
+instagram = Instagram()
+instagram.with_credentials('donatella.marchese.7', 'vietatofumare')
+#instagram.login()
+classificator = pickle.load(open('./classificators/DT_without_stats.sav', 'rb'))
 
 class Example(wx.Frame):
 
@@ -81,19 +87,13 @@ class Example(wx.Frame):
         hbox9.Add(rea, proportion=1, flag=wx.EXPAND)
         hbox9.Add(reac, proportion=1, flag=wx.EXPAND)
 
-
-
-
-
         vbox.Add(hbox3, proportion=1, flag=wx.LEFT|wx.RIGHT|wx.EXPAND, border=10)
         vbox.Add(hbox4, proportion=1, flag=wx.LEFT|wx.RIGHT|wx.EXPAND, border=10)
         vbox.Add(hbox5, proportion=1, flag=wx.LEFT|wx.RIGHT|wx.EXPAND, border=10)
         vbox.Add(hbox6, proportion=1, flag=wx.LEFT|wx.RIGHT|wx.EXPAND, border=10)
         vbox.Add(hbox7, proportion=1, flag=wx.LEFT|wx.RIGHT|wx.EXPAND, border=10)
         vbox.Add(hbox8, proportion=1, flag=wx.LEFT|wx.RIGHT|wx.EXPAND, border=10)
-        vbox.Add(hbox9, proportion=1, flag=wx.LEFT|wx.RIGHT|wx.EXPAND, border=10)
-
-        
+        vbox.Add(hbox9, proportion=1, flag=wx.LEFT|wx.RIGHT|wx.EXPAND, border=10)        
              
         ButtonBox = wx.BoxSizer(wx.HORIZONTAL)
         btn1 = wx.Button(panel, label='Ok', size=(70, 30))
@@ -107,10 +107,7 @@ class Example(wx.Frame):
         panel.SetSizer(vbox)
 
     def OnClicked(self, event, tc, prfc, bioc, flwc, fldc, mdc, prvc, reac):
-        username = tc.Value
-        instagram = Instagram()
-        instagram.with_credentials('donatella.marchese.7', 'vietatofumare')
-        instagram.login()
+        username = tc.Value        
         sleep(2) # Delay to mimic user
         account = instagram.get_account(username)    
         ProfileData = account.__dict__
@@ -120,20 +117,26 @@ class Example(wx.Frame):
         #     print(media)
         # item = GenerateData(ProfileData)
         emptyPicURL="44884218_345707102882519_2446069589734326272_n.jpg"
-        pic = "False" if emptyPicURL in ProfileData['profile_pic_url'] else "True"
-    
+        
+        
+        datainput = GenerateData(ProfileData)
+         
+        result = classificator.predict(datainput)
+
+        pic = "False" if emptyPicURL in ProfileData['profile_pic_url'] else "True"    
         prfc.SetLabel(pic)
         bioc.SetLabel("0" if ProfileData["biography"] == "" else str(len(ProfileData["biography"])))
         flwc.SetLabel(str(ProfileData['follows_count']))
         fldc.SetLabel(str(ProfileData['followed_by_count']))
         mdc.SetLabel(str(ProfileData['media_count']))
         prvc.SetLabel(str(ProfileData['is_private']))
-        reac.SetLabel("???")
+        reac.SetLabel(str(result))
         #self.sizer.Layout()
 
 
 
 def main():
+
     
     app = wx.App()
     ex = Example(None, title='Instagram Profile Checker')

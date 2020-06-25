@@ -1,7 +1,3 @@
-=======
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 import argparse
 import codecs
 import configparser
@@ -198,20 +194,6 @@ def main():
     with open('UserData.json', 'w') as outfile:
         json.dump(item, outfile, indent=4)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
     main()
->>>>>>> 9fe7069de6d6e58a5f7f68162f72c9f2b8f534b2
+
